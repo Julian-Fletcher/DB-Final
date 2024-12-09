@@ -106,7 +106,7 @@ VALUES
 (3, 'C11223', 'Charlie', 'Brown', 3),
 (4, 'C44556', 'David', 'Jones', 4),
 (5, 'C77889', 'Eve', 'Taylor', 1),
-(6, 'C99000', 'Frank', 'Miller', 2),
+(6, 'C99000', 'Frank', 'Miller', 2);
 
 
 -- Insert drivers (2 linked to one customer, 1 to another)
