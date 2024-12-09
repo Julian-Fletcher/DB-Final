@@ -1,5 +1,9 @@
 # Databases Phase 3 
 ## Setup
+### Required Libraries
+- mysql.connector -> `pip install mysql.connector`
+
+### Running
 To start, you'll want to create a new connection in MYSQL Workbench. Use `p3.sql` to populate with the necessecary information. In `phase3.py` you'll need to modify the following lines:
 
 ```python
